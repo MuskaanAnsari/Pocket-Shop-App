@@ -1,0 +1,98 @@
+[
+        {
+            "title": "Books",
+            "address": "amount",
+            "companyLogo": "assets/images/products.png",
+            "isMyFav": false
+        },
+        {
+            "title": "Bags",
+            "address": "amount",
+            "companyLogo": "assets/images/products.png",
+            "isMyFav": false
+        },
+        {
+            "title": "Shoes",
+            "address": "amount",
+            "companyLogo": "assets/images/products.png",
+            "isMyFav": false
+        },
+        {
+            "title": "Gadgets",
+            "address": "amount",
+            "companyLogo": "assets/images/products.png",
+            "isMyFav": false
+        },
+        {
+            "title": "Wallets",
+            "address": "amount",
+            "companyLogo": "assets/images/products.png",
+            "isMyFav": false
+        },
+        {
+            "title": "Shirts",
+            "address": "amount",
+            "companyLogo": "assets/images/products.png",
+            "isMyFav": false
+        },
+        {
+            "title": "Jeans",
+            "address": "amount",
+            "companyLogo": "assets/images/products.png",
+            "isMyFav": false
+        },
+        {
+            "title": "Speakers",
+            "address": "amount",
+            "companyLogo": "assets/images/products.png",
+            "isMyFav": false
+        },
+        {
+            "title": "Books",
+            "address": "amount",
+            "companyLogo": "assets/images/products.png",
+            "isMyFav": false
+        },
+        {
+            "title": "Bags",
+            "address": "amount",
+            "companyLogo": "assets/images/products.png",
+            "isMyFav": false
+        },
+        {
+            "title": "Shoes",
+            "address": "amount",
+            "companyLogo": "assets/images/products.png",
+            "isMyFav": false
+        },
+        {
+            "title": "Gadgets",
+            "address": "amount",
+            "companyLogo": "assets/images/products.png",
+            "isMyFav": false
+        },
+        {
+            "title": "Wallets",
+            "address": "amount",
+            "companyLogo": "assets/images/products.png",
+            "isMyFav": false
+        },
+        {
+            "title": "Shirts",
+            "address": "amount",
+            "companyLogo": "assets/images/products.png",
+            "isMyFav": false
+        },
+        {
+            "title": "Jeans",
+            "address": "amount",
+            "companyLogo": "assets/images/products.png",
+            "isMyFav": false
+        },
+        {
+            "title": "Speakers",
+            "address": "amount",
+            "companyLogo": "assets/images/products.png",
+            "isMyFav": false
+        }
+    ]

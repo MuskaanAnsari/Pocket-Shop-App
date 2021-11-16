@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "459880706612",
+    "firebase_url": "https://firetest2-5f5bc-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "firetest2-5f5bc",
+    "storage_bucket": "firetest2-5f5bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459880706612:android:4fe739dc5d0382a6481061",
+        "android_client_info": {
+          "package_name": "com.example.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459880706612-6c7hgu4klgpfoo1uhso20l9pnpd24g1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCNrlT6-EKNUy2aAyxV8WcXg4FEFRr8G8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459880706612-6c7hgu4klgpfoo1uhso20l9pnpd24g1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
