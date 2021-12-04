@@ -2,15 +2,15 @@ import 'package:flutter/foundation.dart';
 
 
 class Product {
-  final String id;
-  final String barcodeValue;
-  final String productName;
-  final String productVariant;
-  final double productPrice;
-  final String productImage;
+  late String id;
+  late String barcodeValue;
+  late String productName;
+  late String productVariant;
+  late double productPrice;
+  late String productImage;
   int quantity = 1;
 
-  Product({
+   Product({
     required this.id,
     required this.barcodeValue,
     required this.productName,
@@ -30,3 +30,4 @@ class Product {
     );
   }
 }
+

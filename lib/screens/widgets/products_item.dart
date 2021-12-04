@@ -7,7 +7,8 @@ import 'package:shop_app/providers/products_provider.dart';
 import 'package:provider/provider.dart';
 
 //models
-import 'package:shop_app/models/Product.dart';
+import 'package:shop_app/models/product.dart';
+
 
 
 class ProductItem extends StatelessWidget {
