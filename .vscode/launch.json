@@ -1,0 +1,21 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "PoketApp-master",
+            "cwd": "PoketApp-master",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "PoketApp-master (profile mode)",
+            "cwd": "PoketApp-master",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        }
+    ]
+}
